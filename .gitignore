@@ -1,0 +1,12 @@
+﻿# Windows
+Thumbs.db
+# IDE
+.vscode/
+.idea/
+*.uvoptx
+*.uvguix
+# Temp
+*.tmp
+*.swp
+# Old git
+.git/

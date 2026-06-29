@@ -1,0 +1,16 @@
+# Keil编译生成文件
+Objects/
+Listings/
+*.axf
+*.hex
+*.uvopt
+*.bak
+*.dep
+*.crf
+*.o
+*.htm
+*.sct
+*.map
+# 系统缓存文件
+.DS_Store
+Thumbs.db
